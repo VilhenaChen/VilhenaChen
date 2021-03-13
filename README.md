@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to Premier Pro, Aduino  
   
 
-- ⚡ [Fun](##The-Joke) fact: This fact has fun in it  
+- ⚡ [Fun](#the-joke) fact: This fact has fun in it  
   
 
 <br/>  
