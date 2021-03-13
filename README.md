@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to Premier Pro, Aduino  
   
 
-- ⚡ Fun fact: This fact has fun in it  
+- ⚡ [Fun](##The-Joke) fact: This fact has fun in it  
   
 
 <br/>  
@@ -70,5 +70,7 @@
 ## My Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VilhenaChen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>
+
+## The Joke 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
