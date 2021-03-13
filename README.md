@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Java and some Rasberry Pi Stuff
   
 
-- ❓ Ask me about anything related to Premier Pro, Aduino  
+- ❓ Ask me about anything related to Arduino, programming in general and Video/Photo Editing
   
 
 - ⚡ [Fun](#the-joke) fact: This fact has fun in it  
@@ -17,11 +17,8 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 </td><td valign="top" width="33%">
 
@@ -40,12 +37,9 @@
 
 </td><td valign="top" width="33%">
 
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Where can you find me?  
 <div align="center">
@@ -63,9 +57,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## My Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VilhenaChen&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
