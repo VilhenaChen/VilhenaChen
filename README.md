@@ -6,7 +6,7 @@
 ### <div align="center">A Byte on a ZetaByte World</div>  
 ![Visitor Count](https://profile-counter.glitch.me/{VilhenaChen}/count.svg)
 
-- 🌱 I’m currently learning Java and some Rasberry Pi Stuff
+- 🌱 I’m currently learning Kotlin and Android Development
   
 
 - ❓ Ask me about anything related to Arduino, programming in general and Video/Photo Editing
