@@ -6,10 +6,7 @@
 ### <div align="center">A Byte on a ZetaByte World</div>  
 ![Visitor Count](https://profile-counter.glitch.me/{VilhenaChen}/count.svg)
 
-- 🌱 I’m currently learning Kotlin and Android Development
-  
-
-- ❓ Ask me about anything related to Arduino, programming in general and Video/Photo Editing
+Welcome to my GitHub page! Here you'll find a showcase of my personal projects, ranging from coding challenges to full-fledged applications. Take a look around and feel free to explore the code. Who knows, you may find something useful for your own projects. Thank you for stopping by!
   
 
 - ⚡ [Fun](#the-joke) fact: This fact has fun in it  
